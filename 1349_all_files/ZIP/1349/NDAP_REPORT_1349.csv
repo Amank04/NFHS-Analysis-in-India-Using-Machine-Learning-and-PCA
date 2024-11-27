@@ -1,0 +1,37 @@
+ROWID,Country,State lgd code,State,YearCode,Year,Percentage of infant mortality rate (imr)
+1,India,1,Jammu And Kashmir,2019,"Calendar Year (Jan - Dec), 2019",20
+2,India,2,Himachal Pradesh,2019,"Calendar Year (Jan - Dec), 2019",19
+3,India,3,Punjab,2019,"Calendar Year (Jan - Dec), 2019",19
+4,India,4,Chandigarh,2019,"Calendar Year (Jan - Dec), 2019",13
+5,India,5,Uttarakhand,2019,"Calendar Year (Jan - Dec), 2019",27
+6,India,6,Haryana,2019,"Calendar Year (Jan - Dec), 2019",27
+7,India,7,Delhi,2019,"Calendar Year (Jan - Dec), 2019",11
+8,India,8,Rajasthan,2019,"Calendar Year (Jan - Dec), 2019",35
+9,India,9,Uttar Pradesh,2019,"Calendar Year (Jan - Dec), 2019",41
+10,India,10,Bihar,2019,"Calendar Year (Jan - Dec), 2019",29
+11,India,11,Sikkim,2019,"Calendar Year (Jan - Dec), 2019",5
+12,India,12,Arunachal Pradesh,2019,"Calendar Year (Jan - Dec), 2019",29
+13,India,13,Nagaland,2019,"Calendar Year (Jan - Dec), 2019",3
+14,India,14,Manipur,2019,"Calendar Year (Jan - Dec), 2019",10
+15,India,15,Mizoram,2019,"Calendar Year (Jan - Dec), 2019",3
+16,India,16,Tripura,2019,"Calendar Year (Jan - Dec), 2019",21
+17,India,17,Meghalaya,2019,"Calendar Year (Jan - Dec), 2019",33
+18,India,18,Assam,2019,"Calendar Year (Jan - Dec), 2019",40
+19,India,19,West Bengal,2019,"Calendar Year (Jan - Dec), 2019",20
+20,India,20,Jharkhand,2019,"Calendar Year (Jan - Dec), 2019",27
+21,India,21,Odisha,2019,"Calendar Year (Jan - Dec), 2019",38
+22,India,22,Chhattisgarh,2019,"Calendar Year (Jan - Dec), 2019",40
+23,India,23,Madhya Pradesh,2019,"Calendar Year (Jan - Dec), 2019",46
+24,India,24,Gujarat,2019,"Calendar Year (Jan - Dec), 2019",25
+25,India,27,Maharashtra,2019,"Calendar Year (Jan - Dec), 2019",17
+26,India,28,Andhra Pradesh,2019,"Calendar Year (Jan - Dec), 2019",25
+27,India,29,Karnataka,2019,"Calendar Year (Jan - Dec), 2019",21
+28,India,30,Goa,2019,"Calendar Year (Jan - Dec), 2019",8
+29,India,31,Lakshadweep,2019,"Calendar Year (Jan - Dec), 2019",8
+30,India,32,Kerala,2019,"Calendar Year (Jan - Dec), 2019",6
+31,India,33,Tamil Nadu,2019,"Calendar Year (Jan - Dec), 2019",15
+32,India,34,Puducherry,2019,"Calendar Year (Jan - Dec), 2019",9
+33,India,35,Andaman And Nicobar Islands,2019,"Calendar Year (Jan - Dec), 2019",7
+34,India,36,Telangana,2019,"Calendar Year (Jan - Dec), 2019",23
+35,India,37,Ladakh,2019,"Calendar Year (Jan - Dec), 2019",20
+36,India,38,The Dadra And Nagar Haveli And Daman And Diu,2019,"Calendar Year (Jan - Dec), 2019",14.00000000000000000000

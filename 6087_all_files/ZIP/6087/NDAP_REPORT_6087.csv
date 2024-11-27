@@ -1,0 +1,107 @@
+ROWID,Country,State lgd code,State,YearCode,Year,"Patients attended  Non-communicable diseases ( NCDs ) Clinics Diseases that cannot be directly transmitted from man to man, animal to animal or from the environment (through air, dust, soil, water, food etc) to man or animal are deemed as non-communicable diseases",Patients diagnosed with Diabetes,Patients diagnosed with Hypertension,Patients diagnosed with Hypertension and Diabetes Mellitus( Htnand DM ),Patients diagnosed with Cardiovascular diseases ( CVDs ),Patients diagnosed with Stroke,Patients diagnosed with common Cancers
+1,India,1,Jammu And Kashmir,2018,"Calendar Year (Jan - Dec), 2018",215619.76680993727764505967,22972.34109488791514632882,38640.01373637282636211248,9123.98866274012060312336,2015.92416744290186138907,990.84482368736515554931,378.53597903949685606869
+2,India,1,Jammu And Kashmir,2019,"Calendar Year (Jan - Dec), 2019",198759.75474093519157773148,21234.20560456960529301083,30315.15658493831023291191,7238.15567155627063283800,2582.26094228493979333680,730.66247116926137334189,2398.37266306161832320524
+3,India,1,Jammu And Kashmir,2020,"Calendar Year (Jan - Dec), 2020",511868,23670,29893,12338,3345,1072,1048
+4,India,2,Himachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",260164,77845,99432,30312,2150,213,453
+5,India,2,Himachal Pradesh,2019,"Calendar Year (Jan - Dec), 2019",308602,31310,51060,6812,627,110,4503
+6,India,2,Himachal Pradesh,2020,"Calendar Year (Jan - Dec), 2020",316308,18169,37131,4212,315,184,5089
+7,India,3,Punjab,2018,"Calendar Year (Jan - Dec), 2018",871579,116181,150685,59557,6555,711,987
+8,India,3,Punjab,2019,"Calendar Year (Jan - Dec), 2019",1124050,134537,176790,68191,10176,1549,1873
+9,India,3,Punjab,2020,"Calendar Year (Jan - Dec), 2020",1155668,135274,181582,69177,7992,780,4764
+10,India,4,Chandigarh,2018,"Calendar Year (Jan - Dec), 2018",28315,2912,4099,2444,47,20,8
+11,India,4,Chandigarh,2019,"Calendar Year (Jan - Dec), 2019",14470,2016,1978,891,66,,
+12,India,4,Chandigarh,2020,"Calendar Year (Jan - Dec), 2020",170619,10948,10528,1649,252,141,10
+13,India,5,Uttarakhand,2018,"Calendar Year (Jan - Dec), 2018",105802,17046,20796,6367,460,244,123
+14,India,5,Uttarakhand,2019,"Calendar Year (Jan - Dec), 2019",124343,18093,21761,6238,309,167,97
+15,India,5,Uttarakhand,2020,"Calendar Year (Jan - Dec), 2020",73058,10033,13796,4696,409,196,70
+16,India,6,Haryana,2018,"Calendar Year (Jan - Dec), 2018",1292849,91324,105020,41019,2827,625,1221
+17,India,6,Haryana,2019,"Calendar Year (Jan - Dec), 2019",1668928,147607,158181,85897,8345,2324,1729
+18,India,6,Haryana,2020,"Calendar Year (Jan - Dec), 2020",1007952,86322,96473,38303,5381,2434,1413
+19,India,7,Delhi,2018,"Calendar Year (Jan - Dec), 2018",,,,,,,
+20,India,7,Delhi,2019,"Calendar Year (Jan - Dec), 2019",,,,,,,
+21,India,7,Delhi,2020,"Calendar Year (Jan - Dec), 2020",44450,8978,7888,30226,242,345,626
+22,India,8,Rajasthan,2018,"Calendar Year (Jan - Dec), 2018",8954630,378428,691651,119855,21167,3259,3414
+23,India,8,Rajasthan,2019,"Calendar Year (Jan - Dec), 2019",11045414,312007,598540,101451,23087,1878,3989
+24,India,8,Rajasthan,2020,"Calendar Year (Jan - Dec), 2020",8803544,231635,436600,82580,10666,1043,2586
+25,India,9,Uttar Pradesh,2018,"Calendar Year (Jan - Dec), 2018",3043376,406205,353940,160072,28868,3319,2155
+26,India,9,Uttar Pradesh,2019,"Calendar Year (Jan - Dec), 2019",3764979,445066,364288,187460,17787,6491,1555
+27,India,9,Uttar Pradesh,2020,"Calendar Year (Jan - Dec), 2020",2618489,300799,268750,124486,14256,3504,1313
+28,India,10,Bihar,2018,"Calendar Year (Jan - Dec), 2018",152510,47337,24774,6402,660,163,17
+29,India,10,Bihar,2019,"Calendar Year (Jan - Dec), 2019",375091,122668,72841,22151,990,202,4184
+30,India,10,Bihar,2020,"Calendar Year (Jan - Dec), 2020",203996,82290,51119,16256,463,181,2065
+31,India,11,Sikkim,2018,"Calendar Year (Jan - Dec), 2018",76041,915,2586,385,49,13,2
+32,India,11,Sikkim,2019,"Calendar Year (Jan - Dec), 2019",73010,1280,3715,848,34,8,3
+33,India,11,Sikkim,2020,"Calendar Year (Jan - Dec), 2020",41657,1009,1953,386,22,40,5
+34,India,12,Arunachal Pradesh,2018,"Calendar Year (Jan - Dec), 2018",185801,8220,16244,1381,268,332,862
+35,India,12,Arunachal Pradesh,2019,"Calendar Year (Jan - Dec), 2019",208578,6535,13179,1009,171,427,670
+36,India,12,Arunachal Pradesh,2020,"Calendar Year (Jan - Dec), 2020",176375,5831,11351,1410,140,416,715
+37,India,13,Nagaland,2018,"Calendar Year (Jan - Dec), 2018",24359,1449,3765,695,633,250,235
+38,India,13,Nagaland,2019,"Calendar Year (Jan - Dec), 2019",51430,2364,6530,1070,646,272,278
+39,India,13,Nagaland,2020,"Calendar Year (Jan - Dec), 2020",32994,1397,4297,473,326,111,116
+40,India,14,Manipur,2018,"Calendar Year (Jan - Dec), 2018",36821,3712,3280,939,242,97,413
+41,India,14,Manipur,2019,"Calendar Year (Jan - Dec), 2019",46831,3835,4184,823,217,88,249
+42,India,14,Manipur,2020,"Calendar Year (Jan - Dec), 2020",76412,5500,7060,1246,236,115,121
+43,India,15,Mizoram,2018,"Calendar Year (Jan - Dec), 2018",105758,7168,8322,1167,225,33,108
+44,India,15,Mizoram,2019,"Calendar Year (Jan - Dec), 2019",136608,14008,11615,2610,34,47,104
+45,India,15,Mizoram,2020,"Calendar Year (Jan - Dec), 2020",110966,4721,8422,2415,48,85,173
+46,India,16,Tripura,2018,"Calendar Year (Jan - Dec), 2018",122747,5460,28198,3934,124,482,52
+47,India,16,Tripura,2019,"Calendar Year (Jan - Dec), 2019",295377,13973,45338,9358,357,644,132
+48,India,16,Tripura,2020,"Calendar Year (Jan - Dec), 2020",199414,12186,31925,32305,604,501,62
+49,India,17,Meghalaya,2018,"Calendar Year (Jan - Dec), 2018",28521,1557,2560,988,175,43,852
+50,India,17,Meghalaya,2019,"Calendar Year (Jan - Dec), 2019",77559,3695,5917,1330,203,109,622
+51,India,17,Meghalaya,2020,"Calendar Year (Jan - Dec), 2020",73380,3193,6719,1072,72,156,493
+52,India,18,Assam,2018,"Calendar Year (Jan - Dec), 2018",245988,24915,50765,5067,1548,1057,400
+53,India,18,Assam,2019,"Calendar Year (Jan - Dec), 2019",292605,38631,73420,12979,1454,1210,898
+54,India,18,Assam,2020,"Calendar Year (Jan - Dec), 2020",97370,19840,27799,6289,1071,955,109
+55,India,19,West Bengal,2018,"Calendar Year (Jan - Dec), 2018",1458531,247614,285134,127759,29907,20529,11897
+56,India,19,West Bengal,2019,"Calendar Year (Jan - Dec), 2019",2631889,404214,455305,170091,44387,29665,9032
+57,India,19,West Bengal,2020,"Calendar Year (Jan - Dec), 2020",2590568,332301,382789,136664,23218,16316,6251
+58,India,20,Jharkhand,2018,"Calendar Year (Jan - Dec), 2018",421063,31093,32491,6543,2747,997,149
+59,India,20,Jharkhand,2019,"Calendar Year (Jan - Dec), 2019",513749,54629,58814,12239,1369,941,1774
+60,India,20,Jharkhand,2020,"Calendar Year (Jan - Dec), 2020",445736,49047,44345,8521,828,568,1235
+61,India,21,Odisha,2018,"Calendar Year (Jan - Dec), 2018",552450,92783,118978,33938,5487,2050,1457
+62,India,21,Odisha,2019,"Calendar Year (Jan - Dec), 2019",754849,133549,167293,45582,10777,1932,3071
+63,India,21,Odisha,2020,"Calendar Year (Jan - Dec), 2020",865820,161448,204237,52124,8477,1824,3408
+64,India,22,Chhattisgarh,2018,"Calendar Year (Jan - Dec), 2018",714609,101739,59909,21226,1786,357,2905
+65,India,22,Chhattisgarh,2019,"Calendar Year (Jan - Dec), 2019",1593416,166411,163401,48886,3133,1516,210
+66,India,22,Chhattisgarh,2020,"Calendar Year (Jan - Dec), 2020",1286416,113311,125527,31371,1207,1211,864
+67,India,23,Madhya Pradesh,2018,"Calendar Year (Jan - Dec), 2018",334878,28283,35773,29609,4045,1739,1146
+68,India,23,Madhya Pradesh,2019,"Calendar Year (Jan - Dec), 2019",881901,83660,118063,74173,12162,2868,4119
+69,India,23,Madhya Pradesh,2020,"Calendar Year (Jan - Dec), 2020",1931418,244059,243902,192975,25310,7582,15923
+70,India,24,Gujarat,2018,"Calendar Year (Jan - Dec), 2018",3997656,154504,159007,62043,10107,6097,72169
+71,India,24,Gujarat,2019,"Calendar Year (Jan - Dec), 2019",4184181,136789,141197,48638,8806,5689,3611
+72,India,24,Gujarat,2020,"Calendar Year (Jan - Dec), 2020",3229049,225278,151062,53828,16052,7624,3605
+73,India,27,Maharashtra,2018,"Calendar Year (Jan - Dec), 2018",5883915,155628,250875,97651,16880,4015,14103
+74,India,27,Maharashtra,2019,"Calendar Year (Jan - Dec), 2019",6484934,181310,250514,61650,12639,4123,6682
+75,India,27,Maharashtra,2020,"Calendar Year (Jan - Dec), 2020",4587621,138143,182070,55988,7534,2696,4587
+76,India,28,Andhra Pradesh,2018,"Calendar Year (Jan - Dec), 2018",1382857,391843,399094,78292,9585,2578,5705
+77,India,28,Andhra Pradesh,2019,"Calendar Year (Jan - Dec), 2019",1276142,294812,292005,66649,9697,3732,609
+78,India,28,Andhra Pradesh,2020,"Calendar Year (Jan - Dec), 2020",1169030,194153,196979,60667,4828,1514,352
+79,India,29,Karnataka,2018,"Calendar Year (Jan - Dec), 2018",2375504,112220,105030,38539,8212,4989,20084
+80,India,29,Karnataka,2019,"Calendar Year (Jan - Dec), 2019",3578010,107309,109588,35498,6943,3080,4823
+81,India,29,Karnataka,2020,"Calendar Year (Jan - Dec), 2020",2321114,55544,57599,20285,6995,2542,3243
+82,India,30,Goa,2018,"Calendar Year (Jan - Dec), 2018",507413,8431,6609,7529,1430,1053,53
+83,India,30,Goa,2019,"Calendar Year (Jan - Dec), 2019",615682,10360,9991,9335,2210,2675,60
+84,India,30,Goa,2020,"Calendar Year (Jan - Dec), 2020",349950,6116,5731,7078,1515,2037,24
+85,India,31,Lakshadweep,2018,"Calendar Year (Jan - Dec), 2018",,,,,,,
+86,India,31,Lakshadweep,2019,"Calendar Year (Jan - Dec), 2019",502549,1739,2880,,269,343,26
+87,India,31,Lakshadweep,2020,"Calendar Year (Jan - Dec), 2020",,,,,,,
+88,India,32,Kerala,2018,"Calendar Year (Jan - Dec), 2018",4758159,58174,107995,31140,20120,1061,10404
+89,India,32,Kerala,2019,"Calendar Year (Jan - Dec), 2019",5734369,83380,144988,72192,4434,1385,2791
+90,India,32,Kerala,2020,"Calendar Year (Jan - Dec), 2020",4166477,50485,86238,30207,3224,1481,3244
+91,India,33,Tamil Nadu,2018,"Calendar Year (Jan - Dec), 2018",23997842,375315,721197,115235,13787,10201,2860
+92,India,33,Tamil Nadu,2019,"Calendar Year (Jan - Dec), 2019",18099337,264941,491649,92216,11924,11613,2621
+93,India,33,Tamil Nadu,2020,"Calendar Year (Jan - Dec), 2020",7710801,160596,290286,62834,15719,9277,1702
+94,India,34,Puducherry,2019,"Calendar Year (Jan - Dec), 2019",95755,2190,996,506,7036,1400,647
+95,India,34,Puducherry,2020,"Calendar Year (Jan - Dec), 2020",87345,1654,483,288,4991,1126,343
+96,India,35,Andaman And Nicobar Islands,2018,"Calendar Year (Jan - Dec), 2018",11052,230,362,93,,,76
+97,India,35,Andaman And Nicobar Islands,2019,"Calendar Year (Jan - Dec), 2019",18882,1164,724,219,,,3
+98,India,35,Andaman And Nicobar Islands,2020,"Calendar Year (Jan - Dec), 2020",6959,448,649,203,,,
+99,India,36,Telangana,2018,"Calendar Year (Jan - Dec), 2018",2850666,122456,143118,,,,13130
+100,India,36,Telangana,2019,"Calendar Year (Jan - Dec), 2019",1429718,95690,221959,56865,1326,11856,4074
+101,India,36,Telangana,2020,"Calendar Year (Jan - Dec), 2020",681268,34063,81739,27251,,5270,1091
+102,India,37,Ladakh,2018,"Calendar Year (Jan - Dec), 2018",4821.23319006272235494033,513.65890511208485367118,863.98626362717363788752,204.01133725987939687664,45.07583255709813861093,22.15517631263484445069,8.46402096050314393131
+103,India,37,Ladakh,2019,"Calendar Year (Jan - Dec), 2019",4444.24525906480842226852,474.79439543039470698917,677.84341506168976708809,161.84432844372936716200,57.73905771506020666320,16.33752883073862665811,53.62733693838167679476
+104,India,37,Ladakh,2020,"Calendar Year (Jan - Dec), 2020",1665,193,509,70,28,19,39
+105,India,38,The Dadra And Nagar Haveli And Daman And Diu,2018,"Calendar Year (Jan - Dec), 2018",102946.00000000000000000000,5728.00000000000000000000,6232.00000000000000000000,6497.00000000000000000000,1296.00000000000000000000,379.00000000000000000000,4.00000000000000000000
+106,India,38,The Dadra And Nagar Haveli And Daman And Diu,2019,"Calendar Year (Jan - Dec), 2019",56230.00000000000000000000,776.00000000000000000000,1187.00000000000000000000,293.00000000000000000000,411.00000000000000000000,27.00000000000000000000,250.00000000000000000000

@@ -1,0 +1,13 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+YearCode,YearCode,Key Identifier,"",0,,"","",YearCode
+Year,Year,Key Identifier,"",0,,"","",Year
+"Patients attended  Non-communicable diseases ( NCDs ) Clinics Diseases that cannot be directly transmitted from man to man, animal to animal or from the environment (through air, dust, soil, water, food etc) to man or animal are deemed as non-communicable diseases",I6087_3,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,"Patients attended  Non-communicable diseases ( NCDs ) Clinics Diseases that cannot be directly transmitted from man to man, animal to animal or from the environment (through air, dust, soil, water, food etc) to man or animal are deemed as non-communicable diseases"
+Patients diagnosed with Diabetes,I6087_4,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Patients diagnosed with Diabetes
+Patients diagnosed with Hypertension,I6087_5,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Patients diagnosed with Hypertension
+Patients diagnosed with Hypertension and Diabetes Mellitus( Htnand DM ),I6087_6,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Patients diagnosed with Hypertension and Diabetes Mellitus( Htnand DM )
+Patients diagnosed with Cardiovascular diseases ( CVDs ),I6087_7,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Patients diagnosed with Cardiovascular diseases ( CVDs )
+Patients diagnosed with Stroke,I6087_8,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Patients diagnosed with Stroke
+Patients diagnosed with common Cancers,I6087_9,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,Patients diagnosed with common Cancers

@@ -1,0 +1,109 @@
+Original Column Name,New Column Name
+Country,0
+State,1
+District,2
+Year,3
+Women Age Group 15 To 19 Years Who Are Anaemic (%) (UOM:%(Percentage)),4
+Women Age Group 15 To 49 Years Who Are Anaemic (%) (UOM:%(Percentage)),5
+Married Women Age Group 15 To 49 Years Use Any Family Planning Methods (%) (UOM:%(Percentage)),6
+Married Women Age Group 15 To 49 Years Any Modern Family Planning Method (%) (UOM:%(Percentage)),7
+Average Out Of Pocket Expenditure For Each Delivery In Public Health Facility (UOM:INR(IndianRupees)),8
+Births Attended By Skilled Health Personnel (%) (UOM:%(Percentage)),9
+Births Delivered By Caesarean Section (%) (UOM:%(Percentage)),10
+Births In Private Health Facility Delivered By Caesarean Section (%) (UOM:%(Percentage)),11
+Births In Public Health Facility Delivered By Caesarean Section (%) (UOM:%(Percentage)),12
+Births In The 5 Years Preceding The Survey That Are Third Or Higher Order (%) (UOM:%(Percentage)),13
+Breastfeeding Children Age Group 6 To 23 Months Receiving An Adequate Diet (%) (UOM:%(Percentage)),14
+Children Age Group 12 To 23 Months Fully Vaccinated Based On Information From Either Vaccination Card Or Mothers Recall (%) (UOM:%(Percentage)),15
+Children Age Group 12 To 23 Months Fully Vaccinated Based On Information From Vaccination Card Only (%) (UOM:%(Percentage)),16
+Children Age Group 12 To 23 Months Who Have Received 3 Doses Of Penta Or Diphtheria Tetanus Toxoids And Pertussis ( Dtp ) Vaccine (%) (UOM:%(Percentage)),17
+Children Age Group 12 To 23 Months Who Have Received 3 Doses Of Penta Or Hepatitis B Vaccine (%) (UOM:%(Percentage)),18
+Children Age Group 12 To 23 Months Who Have Received 3 Doses Of Polio Vaccine (%) (UOM:%(Percentage)),19
+Children Age Group 12 To 23 Months Who Have Received 3 Doses Of Rotavirus Vaccine (%) (UOM:%(Percentage)),20
+Children Age Group 12 To 23 Months Who Have Received Bacillus Calmette Guerin ( Bcg) (%) (UOM:%(Percentage)),21
+Children Age Group 12 To 23 Months Who Have Received The First Dose Of Measles Containing Vaccine ( Mcv ) (%) (UOM:%(Percentage)),22
+Children Age Group 12 To 23 Months Who Received Most Of Their Vaccinations In A Private Health Facility (%) (UOM:%(Percentage)),23
+Children Age Group 12 To 23 Months Who Received Most Of Their Vaccinations In A Public Health Facility (%) (UOM:%(Percentage)),24
+Children Age Group 24 To 35 Months Who Have Received A Second Dose Of Measles Containing Vaccine ( Mcv ) (%) (UOM:%(Percentage)),25
+Children Age 5 Years Who Attended Pre-Primary School During The Year 2019-20 (%) (UOM:%(Percentage)),26
+Children Age Group 6 To 59 Months Who Are Anaemic (%) (UOM:%(Percentage)),27
+Children Age Group 6 To 8 Months Receiving Solid Or Semisolid Food And Breastmilk (%) (UOM:%(Percentage)),28
+Children Age Group 9 To 35 Months Who Received Vitamin A Dose In The Last 6 Months (%) (UOM:%(Percentage)),29
+Children Born At Home Who Were Taken To A Health Facility For A Check-Up Within 24 Hours Of Birth (%) (UOM:%(Percentage)),30
+Children Under 5 Years Who Are Overweight ( Weight-For-Height ) (%) (UOM:%(Percentage)),31
+Children Under 5 Years Who Are Severely Wasted ( Weight-For-Height ) (%) (UOM:%(Percentage)),32
+Children Under 5 Years Who Are Stunted ( Height-For-Age ) (%) (UOM:%(Percentage)),33
+Children Under 5 Years Who Are Underweight ( Weight-For-Age ) (%) (UOM:%(Percentage)),34
+Children Under 5 Years Who Are Wasted ( Weight-For-Height ) (%) (UOM:%(Percentage)),35
+Children Under Age 3 Years Breastfed Within One Hour Of Birth (%) (UOM:%(Percentage)),36
+Children Under Age 5 Years Whose Birth Was Registered With The Civil Authority (%) (UOM:%(Percentage)),37
+Children Under Age 6 Months Exclusively Breastfed (%) (UOM:%(Percentage)),38
+Children Who Received Postnatal Care From A Doctor Or Nurse Or Lady Health Visitor ( Lhv ) Or Auxiliary Nurse Midwifery ( Anm ) Or Midwife Or Other Health Personnel Within 2 Days Of Delivery (%) (UOM:%(Percentage)),39
+Children With Diarrhoea In The 2 Weeks Preceding The Survey Taken To A Health Facility Or Health Provider (%) (UOM:%(Percentage)),40
+Children With Diarrhoea In The 2 Weeks Preceding The Survey Who Received Oral Rehydration Salts (%) (UOM:%(Percentage)),41
+Children With Diarrhoea In The 2 Weeks Preceding The Survey Who Received Zinc (%) (UOM:%(Percentage)),42
+Children With Fever Or Symptoms Of Acute Respiratory Infection In The 2 Weeks Preceding The Survey Taken To A Health Facility Or Health Provider (%) (UOM:%(Percentage)),43
+Married Women Using Condom In The Age Group Of 15 To 49 Years (%) (UOM:%(Percentage)),44
+Current Users Ever Told About Side Effects Of Current Method (%) (UOM:%(Percentage)),45
+Deaths In The Last 3 Years Registered With The Civil Authority (%) (UOM:%(Percentage)),46
+Women Who Have Ever Undergone A Breast Examination For Breast Cancer (%) (UOM:%(Percentage)),47
+Women-Ever Undergone A Screening Test For Cervical Cancer (%) (UOM:%(Percentage)),48
+Women-Ever Undergone An Oral Cavity Examination For Oral Cancer (%) (UOM:%(Percentage)),49
+Female Population Age 6 Years And Above Who Ever Attended School (%) (UOM:%(Percentage)),50
+Female Sterilization Married Women-15 To 49 Years (%) (UOM:%(Percentage)),51
+Health Worker Ever Talked To Female Non-Users About Family Planning (%) (UOM:%(Percentage)),52
+Home Births That Were Conducted By Skilled Health Personnel (%) (UOM:%(Percentage)),53
+Households Using Clean Fuel For Cooking (%) (UOM:%(Percentage)),54
+Households Using Iodized Salt (%) (UOM:%(Percentage)),55
+Population And Household Profile-Households With Any Usual Member Covered Under A Health Insurance Or Financing Scheme (%) (UOM:%(Percentage)),56
+Married Women Age Group 15 To 49 Years Using Intrauterine Device ( Iud ) Or Postpartum Intrauterine Contraceptive Device ( Ppiud ) As Family Planning Methods (%) (UOM:%(Percentage)),57
+Married Women Age Group 15 To 49 Years Using Injectables As One Of The Family Planning Methods (%) (UOM:%(Percentage)),58
+Institutional Births (%) (UOM:%(Percentage)),59
+Institutional Births In Public Facility (%) (UOM:%(Percentage)),60
+Married Women Of Age 15 To 49 Years Using Male Sterlization As One Of The Family Planning Methods (%) (UOM:%(Percentage)),61
+Men Age Group 15 Years And Above Who Consume Alcohol (%) (UOM:%(Percentage)),62
+Men Age Group 15 Years And Above Who Use Any Kind Of Tobacco (%) (UOM:%(Percentage)),63
+Men Suffering From High Blood Sugar Level (%) (UOM:%(Percentage)),64
+Men Suffering From High Or Very High Blood Sugar Level (%) (UOM:%(Percentage)),65
+Men Suffering From Very High Blood Sugar Level (%) (UOM:%(Percentage)),66
+Elevated Blood Pressure Or Taking Medicine To Control Blood Pressure (%) (UOM:%(Percentage)),67
+Men-Mildly Elevated Blood Pressure (%) (UOM:%(Percentage)),68
+Moderately Or Severely Elevated Blood Pressure (%) (UOM:%(Percentage)),69
+Mothers Who Consumed Iron Folic Acid For 100 Days Or More When They Were Pregnant (%) (UOM:%(Percentage)),70
+Mothers Who Consumed Iron Folic Acid For 180 Days Or More When They Were Pregnant (%) (UOM:%(Percentage)),71
+Mothers Who Had An Antenatal Check-Up In The First Trimester (%) (UOM:%(Percentage)),72
+Mothers Who Had At Least 4 Antenatal Care Visits (%) (UOM:%(Percentage)),73
+Mothers Who Received Postnatal Care From A Doctor Or Nurse Or Lady Health Visitor ( Lhv ) Or Auxiliary Nurse Midwifery ( Anm ) Or Midwife Or Other Health Personnel Within 2 Days Of Delivery (%) (UOM:%(Percentage)),74
+Mothers Whose Last Birth Was Protected Against Neonatal Tetanus (%) (UOM:%(Percentage)),75
+Non-Breastfeeding Children Age Group 6 To 23 Months Receiving An Adequate Diet (%) (UOM:%(Percentage)),76
+Non-Pregnant Women Age Group 15 To 49 Years Who Are Anaemic (%) (UOM:%(Percentage)),77
+Currently Married Women Age Group 15 To 49 Years Consuming Pill (%) (UOM:%(Percentage)),78
+Population Below Age 15 Years (%) (UOM:%(Percentage)),79
+Population Living In Households That Use An Improved Sanitation Facility (%) (UOM:%(Percentage)),80
+Population Living In Households With An Improved Drinking Water Source (%) (UOM:%(Percentage)),81
+Population Living In Households With Electricity (%) (UOM:%(Percentage)),82
+Pregnant Women Age Group 15 To 49 Years Who Are Anaemic (%) (UOM:%(Percentage)),83
+Prevalence Of Diarrhoea In The 2 Weeks Preceding The Survey (%) (UOM:%(Percentage)),84
+Prevalence Of Symptoms Of Acute Respiratory Infection ( Ari ) In The 2 Weeks Preceding The Survey (%) (UOM:%(Percentage)),85
+Registered Pregnancies For Which The Mother Received A Mother And Child Protection Card ( Mcp )(%) (UOM:%(Percentage)),86
+"Population And Household Profile-Sex Ratio At Birth For Children Born In The Last Five Years (Females Per 1,000 Males) (UOM:Number)",87
+"Population And Household Profile-Sex Ratio Of The Total Population (Females Per 1,000 Males) (UOM:Number)",88
+Children Age Group 6 To 23 Months Receiving An Adequate Diet (%) (UOM:%(Percentage)),89
+Married Women Age Group 15 To 49 Years Unmet Need For Family Planning (%) (UOM:%(Percentage)),90
+Women Unmet Need For Spacing (%) (UOM:%(Percentage)),91
+Women Age 15 Years And Above Who Consume Alcohol (%) (UOM:%(Percentage)),92
+Women Age 15 Years And Above Who Use Any Kind Of Tobacco (%) (UOM:%(Percentage)),93
+Women Age Group 15 To 19 Years Who Were Already Mothers Or Pregnant At The Time Of The Survey (%) (UOM:%(Percentage)),94
+Women Age Group 15 To 24 Years Who Use Hygienic Methods Of Protection During Their Menstrual Period (%) (UOM:%(Percentage)),95
+Women Age Group 20 To 24 Years Married Before Age 18 Years (%) (UOM:%(Percentage)),96
+Women Age Group 15 To 49 Years Who Are Literate (%) (UOM:%(Percentage)),97
+Women Who Are Overweight Or Obese (%)  (UOM:%(Percentage)),98
+Women Who Have High Risk Waist-To-Hip Ratio (%) (UOM:%(Percentage)),99
+Women With Body Mass Index (Bmi) Below Normal (%) (UOM:%(Percentage)),100
+Women With 10 Or More Years Of Schooling (%) (UOM:%(Percentage)),101
+Women Suffering From High Blood Sugar Level (%) (UOM:%(Percentage)),102
+Women Suffering From High Or Very High Blood Sugar Level (%) (UOM:%(Percentage)),103
+Women Suffering From Very High Blood Sugar Level (%) (UOM:%(Percentage)),104
+Women Suffering From Elevated Blood Pressure (%) (UOM:%(Percentage)),105
+Women-Mildly Elevated Blood Pressure (%) (UOM:%(Percentage)),106
+Women-Moderately Or Severely Elevated Blood Pressure (%) (UOM:%(Percentage)),107
